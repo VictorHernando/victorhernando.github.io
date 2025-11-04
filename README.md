@@ -10,6 +10,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     .parent {
       height:100%;
       width:100%;
+      z-index: -100;
+      position: absolute;
     }
     .lit {
       height:100%;
