@@ -9,11 +9,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   <style>
     .parent {
       height:100%;
-      weight:100%;
+      width:100%;
     }
     .lit {
       height:100%;
-      weight:100%;
+      width:100%;
     }
   </style>
 </head>
